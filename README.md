@@ -19,9 +19,6 @@ I'm available for remote work — if you like to build something, feel free to c
 
 
 <br><br>
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliusgutierrez&show_icons=true&locale=en&layout=compact" alt="juliusgutierrez" /></p>
--->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juliusgutierrez&show_icons=true&locale=en" alt="juliusgutierrez" /></p>
 
