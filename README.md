@@ -1,5 +1,5 @@
 <h1 align="">Julius Gutierrez — @juliusgutierrez </h1>
-<p align="justify">Nice to meet you. I am an experienced Fullstack developer with years of experience in software development. currently living in Manila, Philippines. I have designed and implemented efficient applications and programs in various domain like financials, banking, e-commerce and analytics. 
+<p align="justify">Nice to meet you. I am an experienced Fullstack developer / Solution Architect with years of experience in software development. currently living in Manila, Philippines. I have designed and implemented efficient applications and programs in various domain like financials, banking, e-commerce and analytics. 
 
 
 I'm available for remote work — if you like to build something, feel free to contact me.</p>
